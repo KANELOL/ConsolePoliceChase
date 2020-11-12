@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.exe
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.deps.json
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.runtimeconfig.json
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.runtimeconfig.dev.json
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.dll
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\bin\Debug\netcoreapp3.1\PoliceChase.pdb
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.AssemblyInfo.cs
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.dll
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.pdb
+C:\Users\GET\source\repos\PoliceChase\PoliceChase\obj\Debug\netcoreapp3.1\PoliceChase.genruntimeconfig.cache
